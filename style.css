@@ -1,0 +1,38 @@
+header {
+    height: 100vh;
+    width: 100%;
+    /* border-radius: 50%; */
+}
+
+div.carousel-item {
+    height: 100vh;
+    width: 100%;
+}
+
+.img-1 {
+    background-image: url("https://cdn2.salud180.com/sites/default/files/trucos-de-belleza-para-eliminar-el-brillo-de-la-cara-todo-el-dia-si-tienes-piel-grasa.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.img-2 {
+    /* background: #000; */
+    background: url("https://www.clara.es/medio/2019/11/18/tratamientos-belleza-regalar-navidad-olga-san-bartolome_7fa8843b_1280x772.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.img-3 {
+    background: url("https://dam.vanidades.com/wp-content/uploads/2019/03/Belleza-del-futuro-770x513.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
